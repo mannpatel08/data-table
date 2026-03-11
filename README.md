@@ -5,6 +5,9 @@ A **complete CRUD-based Employee Management System** built using **React + Vite*
 This project is **interview-ready** and ideal for beginners to intermediate developers who want to understand how real applications are structured.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee96fc83-c315-4bdf-ab78-81d926db3a18" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/371d948f-155b-49a8-8c55-5dac9fe26903" />
+
 
 ## 🚀 Features
 
